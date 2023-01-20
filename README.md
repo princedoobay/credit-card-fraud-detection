@@ -13,3 +13,10 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+```
+To download your dataset
+
+wget https://csv
+
+```
+
